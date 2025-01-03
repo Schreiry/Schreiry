@@ -49,9 +49,9 @@
 
 <h3 align="center">✨ Thank you for the visit! ✨</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ваш_псевдоним&color=green" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Schreiry&color=green" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ваш_псевдоним&show_icons=true&theme=radical" alt="Статистика профиля" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Schreiry&show_icons=true&theme=radical" alt="Profile statistics" />
 </p>
 
