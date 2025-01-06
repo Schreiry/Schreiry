@@ -20,7 +20,7 @@
 - ⚙️ **System programming and operating systems**
 - 🌐 **Web technologies**
 - 🗣️ **PL : Python, C++, C#, C, Shell**
-- 📊 **Data Science и and machine learning**
+- 📊 **Data Science & machine learning**
 - 🧩 **Algorithms and data structures**
 - 🤖 **Artificial Intelligence and Automation Research.**
 - 🎚️ **SCADA & IOT**
