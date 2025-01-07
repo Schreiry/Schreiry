@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi! I'm Schreiry. 👋✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=34A853&center=true&width=670&lines=They+say+Text+is+the+best+source+of+infomraton!?;All+Right,Enjoy+your+reading+and+Welcome!;Here,+a+little+and+modestly+about+me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=%2336BCF7&center=true&width=670&lines=They+say+Text+is+the+best+source+of+infomraton!?;All+Right,Enjoy+your+reading+and+Welcome!;Here,+a+little+and+modestly+about+me" alt="Typing SVG" />
 </p>
 
 ---
