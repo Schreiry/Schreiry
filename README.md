@@ -20,6 +20,9 @@
 - ⚙️ **System programming and operating systems**
 - 🌐 **Web technologies**
 - 🗣️ **PL : Python, C++, C#, C, Shell**
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry)](https://github.com/anuraghazra/github-readme-stats)
+
 - 📊 **Data Science & machine learning**
 - 🧩 **Algorithms and data structures**
 - 🤖 **Artificial Intelligence and Automation Research.**
@@ -35,6 +38,14 @@
 - 👾 AI.
 - 🎨 Graphics, animation and creating an intuitive design.
 - ✨ To quench one's thirst for knowledge, illuminate the minds of others, and nurture the seeds of growth.
+  
+---
+
+<p align="center">
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Schreiry&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
 
 ---
 
@@ -51,7 +62,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Schreiry&color=green" alt="Profile Views" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Schreiry&show_icons=true&theme=radical" alt="Profile statistics" />
-</p>
+
 
