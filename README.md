@@ -19,9 +19,14 @@
 - 📜 **Basic and in-depth knowledge of computer engineering**
 - ⚙️ **System programming and operating systems**
 - 🌐 **Web technologies**
-- 🗣️ **PL : Python, C++, C#, C, Shell**
+- 🗣️ **PL : Python, C++, C#, C, Shell, Prolog, D**
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry" alt="Top Langs" />
+  </a>
+</div>
+
 
 - 📊 **Data Science & machine learning**
 - 🧩 **Algorithms and data structures**
