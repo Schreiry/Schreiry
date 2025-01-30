@@ -21,11 +21,7 @@
 - 🌐 **Web technologies**
 - 🗣️ **PL : Python, C++, C#, C, Shell, Prolog, D**
   
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry" alt="Top Langs" />
-  </a>
-</div>
+
 
 
 - 📊 **Data Science & machine learning**
