@@ -20,7 +20,9 @@
 - ⚙️ **System programming and operating systems**
 - 🌐 **Web technologies**
 - 🗣️ **PL : Python, C++, C#, C, Shell, Prolog, D**
+
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
