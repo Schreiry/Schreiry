@@ -8,7 +8,7 @@
 
 
 ## 🧠 **About Me**
-- 🔭 **Computer Engineering Student** @ Georgian Technical University.
+- 🔭 **Computer Engineering Student** in  Georgian Technical University(GTU).
 - 🛠 Passionate about **algorithms, system programming, and AI research**.
 - 🎯 Driven by **open-source contributions, innovative projects, and cutting-edge tech**.
 - 🚀 Committed to **knowledge sharing and tech evangelism**.
