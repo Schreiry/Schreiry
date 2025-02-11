@@ -54,9 +54,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Schreiry&theme=github-dark" alt="GitHub Activity Graph" />
 </p>
 
----
 
-## 📬 **Let's Connect!**
+## 📫 Contact me:
 - #### 📸 Instagramm : [schreitory](https://www.instagram.com/schreitory/)
 - #### 🚂 Steam : [Schreiry](https://steamcommunity.com/profiles/76561199262537312/)
 - #### 😵 Facebook : [David Greve](https://www.facebook.com/Schreitory)
