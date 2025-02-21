@@ -1,8 +1,9 @@
-<h1 align="center"> Schreiry</h1>
-
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Schreiry-29903b?style=for-the-badge&logo=github&logoColor=white" alt="Schreiry" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=%2336BCF7&center=true&width=670&lines=They+say+Text+is+the+best+source+of+infomraton!?;All+Right,Enjoy+your+reading+and+Welcome!;Here,+a+little+and+modestly+about+me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4493f8&center=true&width=670&lines=They+say+Text+is+the+best+source+of+infomraton!?;All+Right,Enjoy+your+reading+and+Welcome!;Here,+a+little+and+modestly+about+me" alt="Typing SVG" />
 </p>
 
 
@@ -64,9 +65,16 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Schreiry&color=green" alt="Profile Views" />
-</p>
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Schreiry}/count.svg" /></p> 
+</div>
 
-<h3 align="center">✨ Thank you for the visit! ✨</h3>
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=4493f8&center=true&vCenter=true&width=435&height=25%&lines=✨+Thank+you+for+visit!+✨;I'm+waiting for+you+again!" alt="Typing SVG" /></a>
+</div>
+
 
