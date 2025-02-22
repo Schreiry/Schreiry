@@ -12,7 +12,7 @@
 
 
 ## 🧠 **About Me**
-- #### 🏫 Immersed in the architectural rigor of algorithms and data structures, plunged headfirst into the world of computer engineering within the walls of Georgian Technical University.
+- #### 🏫 Immersed in the architectural rigor of algorithms and data structures, plunged headfirst into the world of computer engineering within the walls of [Georgian Technical University](https://gtu.ge/).
 - #### 💻 Inspired by open source projects and loves experimenting with code.
 - #### 🌱 On the road to learning new programming languages, algorithms, and architectures.
 - #### 🌍 I am committed to giving back to the world more than I have taken from it.
@@ -122,10 +122,6 @@
 
 
 </div>
-
-
-
-
 
 
 
