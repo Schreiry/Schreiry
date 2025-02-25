@@ -79,6 +79,7 @@
   </span>
   <span style="display:inline-block; margin-left: 20px;">
     
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
     
   </span>
 </div>
