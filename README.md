@@ -126,12 +126,6 @@
 
 </div>
 
-| Python | C | C++ | C# | Shell | Prolog | D |
-| ------ | - | --- | --- | ----- | ------ | - |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" alt="Python"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="60" alt="C"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" alt="C++"> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="60" alt="C#"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Bash_Logo_Colored.svg" width="60" alt="Shell"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/SWI-Prolog_logo.svg" width="60" alt="Prolog"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/D_Programming_Language_logo.svg" width="60" alt="D"> |
-
-
-
 
 
 
