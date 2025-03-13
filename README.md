@@ -25,7 +25,14 @@
 
 - **Programming Languages:** <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" alt="Python"> ; <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="60" alt="C"> ; <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" alt="C++">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" padding="70px" alt="Python"> ;  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="60" padding="30px" alt="C"> ; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" padding="30px" alt="C++"> ; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="60" padding="30px" alt="Javascript"> .
+</div>
+
+
 
 - **Core Skills:**
   - 🔹 Algorithms & Data Structures
@@ -86,6 +93,7 @@
     
   </span>
 </div>
+
 
 
 
