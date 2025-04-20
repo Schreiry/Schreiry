@@ -136,12 +136,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Schreiry}/count.svg" /></p> 
 </div>
 
-<div align="center">
-<br>
-<a href="https://git.io/typing-svg" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=4493f8&center=true&vCenter=true&width=435&height=25%&lines=✨+Thank+you+for+visit!+✨;I'm+waiting for+you+again!" alt="Typing SVG" /></a>
-</div>
-</div>
+
 
 
 
