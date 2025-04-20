@@ -81,7 +81,8 @@
 ---
 
 
-## 📊 **GitHub Activity**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Schreiry&theme=github-dark" alt="GitHub Activity Graph" />
