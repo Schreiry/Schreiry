@@ -117,7 +117,7 @@
   <a href="https://facebook.com/Schreitory" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://steamcommunity.com/id/76561199262537312" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199262537312/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   </a>
   <a href="mailto:schreiry@gmail.com" target="_blank">
