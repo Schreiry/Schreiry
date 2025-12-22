@@ -89,7 +89,18 @@
 </p>
 
 
-<div align = "center">
+<div align="center">
+  <span style="display:inline-block;">
+    
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Schreiry&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </span>
+  <span style="display:inline-block; margin-left: 20px;">
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+    
+  </span>
+</div>
 
 
 
