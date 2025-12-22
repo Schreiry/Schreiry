@@ -81,29 +81,17 @@
 ---
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Schreiry&theme=github-dark" alt="GitHub Activity Graph" />
 </p>
 
-<div align="center">
-  <span style="display:inline-block;">
-    
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Schreiry&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </span>
-  <span style="display:inline-block; margin-left: 20px;">
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-    
-  </span>
-</div>
 
 <div align = "center">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schreiry" alt="schreiry" /></a> </p>
+
 
 </div>
 
