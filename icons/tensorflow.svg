@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+<rect width="48" height="48" rx="6" fill="#1a1a1a"/>
+<path d="M24 4L6 14v20l18 10 18-10V14L24 4z" fill="none" stroke="#777777" stroke-width="1.5"/>
+<path d="M24 4v40M6 14l36 20M42 14L6 34" stroke="#555555" stroke-width="1"/>
+<text x="16" y="29" font-family="monospace" font-weight="bold" font-size="13" fill="#999999">TF</text>
+</svg>
