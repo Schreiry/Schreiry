@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Designed with restraint. Engineered for scale.">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#080a0d"/>
+      <stop offset=".5" stop-color="#11151a"/>
+      <stop offset="1" stop-color="#080a0d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#30363d" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#8b949e"/>
+      <stop offset="1" stop-color="#30363d" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;0;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1;2" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", sans-serif; }
+      .copy { animation: breathe 5s ease-in-out infinite; }
+      @keyframes breathe { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+  <rect width="1200" height="92" rx="18" fill="url(#background)"/>
+  <rect x=".5" y=".5" width="1199" height="91" rx="17.5" fill="none" stroke="#30363d"/>
+  <rect x="340" y="27" width="520" height="1" fill="url(#line)"/>
+  <text class="copy" x="600" y="60" fill="#727b86" font-size="12" font-weight="500" letter-spacing="3.2" text-anchor="middle">DESIGNED WITH RESTRAINT · ENGINEERED FOR SCALE</text>
+</svg>

@@ -1,146 +1,177 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a2a2a&height=90&section=header&animation=twinkling"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=606060&center=true&width=600&lines=Schreiry;Georgian+Technical+University;Engineering.+Not+a+hobby+%E2%80%94+a+method+of+thought." alt="Typing effect"/>
+  <img src="./assets/hero.svg" width="100%" alt="Schreiry — engineering as a method of thought" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=13&amp;duration=2800&amp;pause=900&amp;color=707780&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=28&amp;lines=SYSTEMS+%C2%B7+PERFORMANCE+%C2%B7+MACHINE+INTELLIGENCE;HPC+%C2%B7+EMBEDDED+ENGINEERING+%C2%B7+RELIABLE+SOFTWARE;PRECISION+IN+THE+DETAILS.+CLARITY+IN+THE+SYSTEM." alt="Animated engineering focus" />
+</p>
 
 <p align="center">
   <code>Technology is a tool that changes culture, but people fill the new cultural form with their own content.</code>
 </p>
 
-<br>
+<br />
+
+<p align="center">
+  <img src="./assets/section-stack.svg" width="88%" alt="01 — Engineering Stack" />
+</p>
 
 <div align="center">
   <table>
     <tr>
-      <th colspan="5">🖥️ Stack & Technologies</th>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <a href="https://www.python.org">
-          <img src="https://cdn.simpleicons.org/python/606060" width="48" height="48" alt="Python" />
+      <td align="center" width="124" height="92">
+        <a href="https://www.python.org/">
+          <img src="./icons/python.svg" width="46" height="46" alt="Python" />
         </a>
-        <br>Python
+        <br />
+        <sub><b>Python</b></sub>
       </td>
-      <td align="center" width="100">
-        <a href="https://www.w3schools.com/cpp/">
-          <img src="https://cdn.simpleicons.org/cplusplus/606060" width="48" height="48" alt="C++" />
+      <td align="center" width="124" height="92">
+        <a href="https://isocpp.org/">
+          <img src="./icons/cplusplus.svg" width="46" height="46" alt="C++" />
         </a>
-        <br>C++
+        <br />
+        <sub><b>C++</b></sub>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="124" height="92">
         <a href="https://www.rust-lang.org/">
-          <img src="https://cdn.simpleicons.org/rust/606060" width="48" height="48" alt="Rust" />
+          <img src="./icons/rust.svg" width="46" height="46" alt="Rust" />
         </a>
-        <br>Rust
+        <br />
+        <sub><b>Rust</b></sub>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="124" height="92">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://cdn.simpleicons.org/javascript/606060" width="48" height="48" alt="JavaScript" />
+          <img src="./icons/javascript.svg" width="46" height="46" alt="JavaScript" />
         </a>
-        <br>JavaScript
+        <br />
+        <sub><b>JavaScript</b></sub>
       </td>
-      <td align="center" width="100">
-        <a href="https://www.w3.org/html/">
-          <img src="https://cdn.simpleicons.org/html5/606060" width="48" height="48" alt="HTML5" />
+      <td align="center" width="124" height="92">
+        <a href="https://www.postgresql.org/docs/current/tutorial-sql.html">
+          <img src="./icons/sql.svg" width="46" height="46" alt="SQL" />
         </a>
-        <br>HTML5
+        <br />
+        <sub><b>SQL</b></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="100">
-        <a href="https://www.w3schools.com/css/">
-          <img src="https://cdn.simpleicons.org/css3/606060" width="48" height="48" alt="CSS3" />
+      <td align="center" width="124" height="92">
+        <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core">
+          <img src="./icons/web.svg" width="46" height="46" alt="HTML and CSS" />
         </a>
-        <br>CSS3
+        <br />
+        <sub><b>Web</b> · HTML + CSS</sub>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="124" height="92">
         <a href="https://git-scm.com/">
-          <img src="https://cdn.simpleicons.org/git/606060" width="48" height="48" alt="Git" />
+          <img src="./icons/git.svg" width="46" height="46" alt="Git" />
         </a>
-        <br>Git
+        <br />
+        <sub><b>Git</b></sub>
       </td>
-      <td align="center" width="100">
-        <a href="https://www.tensorflow.org">
-          <img src="https://cdn.simpleicons.org/tensorflow/606060" width="48" height="48" alt="TensorFlow" />
+      <td align="center" width="124" height="92">
+        <a href="https://www.tensorflow.org/">
+          <img src="./icons/tensorflow.svg" width="46" height="46" alt="TensorFlow" />
         </a>
-        <br>TensorFlow
+        <br />
+        <sub><b>TensorFlow</b></sub>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="124" height="92">
+        <a href="https://hpc-wiki.info/hpc/">
+          <img src="./icons/hpc.svg" width="46" height="46" alt="High-performance computing" />
+        </a>
+        <br />
+        <sub><b>HPC</b> · High Performance</sub>
+      </td>
+      <td align="center" width="124" height="92">
         <a href="https://www.arduino.cc/">
-          <img src="https://cdn.simpleicons.org/arduino/606060" width="48" height="48" alt="Arduino" />
+          <img src="./icons/arduino.svg" width="46" height="46" alt="Arduino" />
         </a>
-        <br>Arduino
+        <br />
+        <sub><b>Arduino</b></sub>
       </td>
-      <td align="center" width="100">
-        </td>
     </tr>
   </table>
 </div>
 
-<br>
+<br />
+
+<p align="center">
+  <img src="./assets/section-statistics.svg" width="88%" alt="02 — GitHub Signal" />
+</p>
 
 <div align="center">
   <table>
     <tr>
-      <th colspan="2">📊 GitHub Statistics</th>
-    </tr>
-    <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Schreiry&show_icons=true&bg_color=0d1117&title_color=606060&text_color=777777&icon_color=606060&hide_border=true&custom_title=GitHub&rank_icon=github" height="160" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Schreiry&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=8b949e&amp;icon_color=6e7681&amp;border_color=30363d&amp;border_radius=12&amp;custom_title=GitHub%20Overview" height="166" alt="Schreiry GitHub statistics" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry&layout=donut&bg_color=0d1117&title_color=606060&text_color=777777&hide_border=true&custom_title=Languages" height="160" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schreiry&amp;hide=html,css&amp;hide_progress=true&amp;langs_count=6&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=8b949e&amp;border_color=30363d&amp;border_radius=12&amp;custom_title=Core%20Languages" height="166" alt="Schreiry most used core languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Schreiry&bg_color=0d1117&color=505050&line=3a3a3a&point=606060&hide_border=true&custom_title=Contribution+Graph" width="85%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Schreiry&amp;bg_color=0d1117&amp;color=8b949e&amp;line=6e7681&amp;point=d0d7de&amp;area=true&amp;area_color=30363d&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution%20Graph" width="88%" alt="Schreiry contribution graph" />
 </p>
 
-<br>
+<br />
+
+<p align="center">
+  <img src="./assets/section-connect.svg" width="88%" alt="03 — Selected Channels" />
+</p>
 
 <div align="center">
   <table>
     <tr>
-      <th colspan="5">🔗 Connect with Me</th>
-    </tr>
-    <tr>
-      <td align="center" width="100" height="100">
+      <td align="center" width="124" height="90">
         <a href="mailto:schreiry@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/606060" width="48" height="48" alt="Gmail" />
+          <img src="./icons/gmail.svg" width="44" height="44" alt="Email" />
         </a>
+        <br />
+        <sub>Email</sub>
       </td>
-      <td align="center" width="100" height="100">
+      <td align="center" width="124" height="90">
         <a href="https://www.linkedin.com/in/david-greve-683a79265/">
-          <img src="https://cdn.simpleicons.org/linkedin/606060" width="48" height="48" alt="LinkedIn" />
+          <img src="./icons/linkedin.svg" width="44" height="44" alt="LinkedIn" />
         </a>
+        <br />
+        <sub>LinkedIn</sub>
       </td>
-      <td align="center" width="100" height="100">
+      <td align="center" width="124" height="90">
         <a href="https://instagram.com/schreitory">
-          <img src="https://cdn.simpleicons.org/instagram/606060" width="48" height="48" alt="Instagram" />
+          <img src="./icons/instagram.svg" width="44" height="44" alt="Instagram" />
         </a>
+        <br />
+        <sub>Instagram</sub>
       </td>
-      <td align="center" width="100" height="100">
+      <td align="center" width="124" height="90">
         <a href="https://steamcommunity.com/profiles/76561199262537312/">
-          <img src="https://cdn.simpleicons.org/steam/606060" width="48" height="48" alt="Steam" />
+          <img src="./icons/steam.svg" width="44" height="44" alt="Steam" />
         </a>
+        <br />
+        <sub>Steam</sub>
       </td>
-      <td align="center" width="100" height="100">
+      <td align="center" width="124" height="90">
         <a href="https://facebook.com/Schreitory">
-          <img src="https://cdn.simpleicons.org/facebook/606060" width="48" height="48" alt="Facebook" />
+          <img src="./icons/facebook.svg" width="44" height="44" alt="Facebook" />
         </a>
+        <br />
+        <sub>Facebook</sub>
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Schreiry/count.svg" alt="Visitors Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Schreiry&amp;label=PROFILE%20VIEWS&amp;color=555555&amp;style=flat-square&amp;abbreviated=true" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a2a2a&height=90&section=footer&animation=twinkling"/>
+<br />
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Designed with restraint. Engineered for scale." />
+</p>
