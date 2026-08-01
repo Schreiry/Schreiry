@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Schreiry — engineering as a method of thought" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=13&amp;duration=2800&amp;pause=900&amp;color=707780&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=28&amp;lines=SYSTEMS+%C2%B7+PERFORMANCE+%C2%B7+MACHINE+INTELLIGENCE;HPC+%C2%B7+EMBEDDED+ENGINEERING+%C2%B7+RELIABLE+SOFTWARE;PRECISION+IN+THE+DETAILS.+CLARITY+IN+THE+SYSTEM." alt="Animated engineering focus" />
